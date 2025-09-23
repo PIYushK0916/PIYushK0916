@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Piyush Katole  
+🚀 Full Stack Developer | 🎨 Designer | 📊 Data Enthusiast  
 
-<!--
-**PIYushK0916/PIYushK0916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working on: MERN projects & AI/ML  
+- 🌱 Learning: Data Science & Cloud  
+- 📫 Reach me at: piyush@example.com  
 
-Here are some ideas to get you started:
+## ⚡ Technologies
+- Frontend: React, Tailwind CSS  
+- Backend: Node.js, Express.js, MongoDB  
+- Tools: Git, VS Code, Docker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Achievements
+- 🥉 Won 3rd medal in *Hamara Samvidhan Hamara Samman* event  
+- 🎓 BTech CSE (Design) at DY Patil, Pune  
+
+## 📈 GitHub Stats
+![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=PIYushK0916&show_icons=true&theme=radical)
